@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XlPa0baZJ706qfN2q+BhMEXXWdCZ+Y1fO5qo/7xvCaBXuS2YniTgi+8oIVt6IUtG7oyKCRnnuYTG2wx5SD08lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Behnam\\Source\\Repos2\\Homedish\\Homedish\\Homedish.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Behnam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Behnam\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
